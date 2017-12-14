@@ -5,6 +5,7 @@ theme = "hugo-lithium-theme"
 googleAnalytics = "UA-256021-15"
 disqusShortname = "https-blog-datasea-in"
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+enableEmoji = true
 
 [permalinks]
     post = "/:year/:month/:day/:slug/"
