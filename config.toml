@@ -3,7 +3,7 @@ languageCode = "en-us"
 title = "DataSea - Blogging about Web Analytics by Robin Browne"
 theme = "hugo-lithium-theme"
 googleAnalytics = "UA-256021-15"
-disqusShortname = "rbrowne"
+disqusShortname = "https-blog-datasea-in"
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 [permalinks]
